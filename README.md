@@ -1,1 +1,1 @@
-https://hopebernard.github.io/cssBayan/cssBayan/index.html
+https://hopebernard.github.io/cssBayan/index.html
